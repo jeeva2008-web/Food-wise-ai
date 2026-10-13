@@ -1,0 +1,8 @@
+{
+  "name": "FoodWise AI | Rathinam Global University",
+  "description": "Smart Campus Food Waste Management System empowering Rathinam Global University to predict food demand, prevent unnecessary waste, and make every meal count through intelligent food management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
